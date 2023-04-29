@@ -1,2 +1,4 @@
 【tool】
 https://github.com/baiy/Ctool
+https://github.com/philc/vimium //可以通过源码安装
+https://github.com/gdh1995/vimium-c //理论上也可以源码安装
